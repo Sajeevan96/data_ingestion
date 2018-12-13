@@ -1,4 +1,4 @@
-# Data ingestion
+# Data ingestion with Elasticsearch
 
 The goal of this project is to insert data.
 
@@ -10,7 +10,7 @@ There are 2 steps:
 ***
 
 * [Usage](#usage)
-* [More Details](#more-details)
+* [Project using Elasticsearch](#project-using-elasticsearch)
 
 ##  Usage
 
@@ -39,3 +39,8 @@ $ node reformat.js
 ```sh
 $ node article.js
 ``` 
+
+##  Project using Elasticsearch
+
+The project is available on the following link: https://github.com/Sajeevan96/elastic.
+
